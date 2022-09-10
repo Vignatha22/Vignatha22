@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vignatha22
+- 👋 Hi, I’m @Vignatha
 
 <!---
 Vignatha22/Vignatha22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
